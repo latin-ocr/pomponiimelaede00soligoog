@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pomponiimelaede00soligoog_0925.png"; bbox 0 0 2742 4544; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 11 1202 1120 1774">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 11 1202 1120 1774">
+     <span class='ocr_line' id='line_1_1' title="bbox 11 1202 1120 1498; baseline 0.006 -48"><span class='ocrx_word' id='word_1_1' title='bbox 11 1202 16 1210; x_wconf 50' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 129 1305 534 1498; x_wconf 83' lang='lat' dir='ltr'>JACOBI</span> <span class='ocrx_word' id='word_1_3' title='bbox 567 1305 1120 1457; x_wconf 71' lang='lat' dir='ltr'>PEklzoNn</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 271 1659 980 1774; baseline 0.013 -8"><span class='ocrx_word' id='word_1_4' title='bbox 271 1665 322 1766; x_wconf 86' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 365 1665 418 1768; x_wconf 94' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_6' title='bbox 464 1663 516 1770; x_wconf 94' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_7' title='bbox 560 1665 610 1774; x_wconf 93' lang='grc' dir='ltr'>Ο</span> <span class='ocrx_word' id='word_1_8' title='bbox 654 1659 711 1768; x_wconf 91' lang='grc' dir='ltr'>Τ</span> <span class='ocrx_word' id='word_1_9' title='bbox 743 1667 791 1770; x_wconf 87' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_10' title='bbox 828 1664 885 1773; x_wconf 91' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_11' title='bbox 930 1667 980 1774; x_wconf 85' lang='lat' dir='ltr'>A</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 98 2251 1191 2540">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 98 2251 1191 2540">
+     <span class='ocr_line' id='line_1_3' title="bbox 98 2251 1191 2540; baseline 0.017 -94"><span class='ocrx_word' id='word_1_12' title='bbox 98 2251 1191 2540; x_wconf 19' lang='lat' dir='ltr'>POMPONIUMX</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 127 2633 921 2764">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 127 2633 921 2764">
+     <span class='ocr_line' id='line_1_4' title="bbox 127 2633 921 2764; baseline 0.013 -24"><span class='ocrx_word' id='word_1_13' title='bbox 127 2633 921 2764; x_wconf 81' lang='lat' dir='ltr'><strong>.MELAM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1376 4544">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1376 4544">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1376 4544; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1376 4544; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
